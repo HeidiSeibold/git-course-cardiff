@@ -1,2 +1,4 @@
 # git-course-cardiff
-Teaching git at Uni Cardiff
+Teaching git at Uni Cardiff.
+
+This is some new text.
